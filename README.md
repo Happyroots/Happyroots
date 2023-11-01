@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Happyroots
-- 👀 I’m interested in hottie
-- 🌱 I’m currently learning 编程
-- 💞️ I’m looking to collaborate on 找工作
-- 📫 How to reach me Email：wy13149746632@163.com
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning large language models
+- 💞️ I’m looking to collaborate on data fusion
+- 📫 How to reach me Email：13149746632@163.com
 
 <!---
 Happyroots/Happyroots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
